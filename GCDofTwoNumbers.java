@@ -8,7 +8,7 @@ public class GCDofTwoNumbers {
         int b = scanner.nextInt();
         System.out.println("GCD of " + a + " and " + b + " is " + gcdOfNumbers(a,b));
         System.out.println("GCD of " + a + " and " + b + "(using Euclidean algorithm) is " + gcdUsingEuclideanAlgorithm(a,b));
-        System.out.println("GCD of " + a + " and " + b + "(using Optimized Euclidean algorithm) is " + gcdUsingOptimizedEuclideanAlgorithm(a,b));
+        System.out.println("GCD of " + a + " and " + b + "(using optimized Euclidean algorithm) is " + gcdUsingOptimizedEuclideanAlgorithm(a,b));
     }
 
     public static int gcdOfNumbers(int a,int b) {
