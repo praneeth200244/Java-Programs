@@ -1,4 +1,4 @@
-// Java program to print frequencies of character (in sorted order) in a string of alphabets
+// Java program to print frequencies of each character (in sorted order) in a string of alphabets
 
 import java.util.Scanner;
 
