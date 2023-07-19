@@ -24,4 +24,5 @@ public class ReadElements {
             System.out.print(array[i] + " ");
         }
     }
+    
 }
