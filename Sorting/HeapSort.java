@@ -38,6 +38,7 @@ public class HeapSort {
             heapify(array,n,i);
         }
     }
+    
     public static void heapSort(int[] array) {
         int n = array.length;
         buildMaxHeap(array,n);
