@@ -53,4 +53,5 @@ public class MergeSort {
             array[k++] = rightHalf[j++];
         }
     }
+    
 }
