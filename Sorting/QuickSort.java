@@ -36,5 +36,4 @@ public class QuickSort {
             array[i] = temp[i-low];
         }
     }
-
 }
