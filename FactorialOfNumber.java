@@ -23,4 +23,5 @@ public class FactorialOfNumber {
         }
         return (number * factorialOfNumberRecursive(number - 1));
     }
+    
 }
